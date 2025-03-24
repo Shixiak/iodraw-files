@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d8oij6s5ezc0","created":1742821140090,"text":"git"},"children":[{"data":{"id":"d8oij8b55kg0","created":1742821143415,"text":"分支主题"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"d8oij6s5ezc0","created":1742821140090,"text":"git"},"children":[{"data":{"id":"d8oij8b55kg0","created":1742821143415,"text":"git rm -r --cached ."},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
