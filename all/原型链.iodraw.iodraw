@@ -29,7 +29,7 @@
         <mxCell id="L-SI8MQGp3HvL-xkU85S-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L-SI8MQGp3HvL-xkU85S-3" target="L-SI8MQGp3HvL-xkU85S-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L-SI8MQGp3HvL-xkU85S-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L-SI8MQGp3HvL-xkU85S-14">
+        <mxCell id="L-SI8MQGp3HvL-xkU85S-15" value="prototype" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L-SI8MQGp3HvL-xkU85S-14">
           <mxGeometry x="0.0237" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
