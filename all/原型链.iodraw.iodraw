@@ -62,10 +62,18 @@
         <mxCell id="L-SI8MQGp3HvL-xkU85S-17" value="Object" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="520" y="90" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="L-SI8MQGp3HvL-xkU85S-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="L-SI8MQGp3HvL-xkU85S-20" target="L-SI8MQGp3HvL-xkU85S-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L-SI8MQGp3HvL-xkU85S-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L-SI8MQGp3HvL-xkU85S-24">
+          <mxGeometry x="0.0167" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="L-SI8MQGp3HvL-xkU85S-20" value="Object" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="520" y="-50" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L-SI8MQGp3HvL-xkU85S-23" value="Object" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="L-SI8MQGp3HvL-xkU85S-23" value="null" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="520" y="-190" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
