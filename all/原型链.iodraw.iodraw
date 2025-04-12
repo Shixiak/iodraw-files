@@ -56,7 +56,7 @@
             <mxPoint x="559.9999999999998" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L-SI8MQGp3HvL-xkU85S-22" value="[[prototype]]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L-SI8MQGp3HvL-xkU85S-21">
+        <mxCell id="L-SI8MQGp3HvL-xkU85S-22" value="__proto__" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L-SI8MQGp3HvL-xkU85S-21">
           <mxGeometry x="0.05" y="1" relative="1" as="geometry">
             <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
