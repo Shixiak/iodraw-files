@@ -54,6 +54,11 @@
         <mxCell id="L-SI8MQGp3HvL-xkU85S-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L-SI8MQGp3HvL-xkU85S-17" target="L-SI8MQGp3HvL-xkU85S-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="L-SI8MQGp3HvL-xkU85S-22" value="[[prototype]]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L-SI8MQGp3HvL-xkU85S-21">
+          <mxGeometry x="0.05" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="L-SI8MQGp3HvL-xkU85S-17" value="Object" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="520" y="90" width="80" height="80" as="geometry" />
         </mxCell>
