@@ -41,9 +41,7 @@
         </mxCell>
         <mxCell id="L-SI8MQGp3HvL-xkU85S-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L-SI8MQGp3HvL-xkU85S-40" target="L-SI8MQGp3HvL-xkU85S-35">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="640" y="390" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
