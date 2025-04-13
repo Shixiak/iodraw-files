@@ -16,7 +16,7 @@
         <mxCell id="L-SI8MQGp3HvL-xkU85S-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L-SI8MQGp3HvL-xkU85S-33" target="L-SI8MQGp3HvL-xkU85S-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="420" />
+              <mxPoint x="320" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
