@@ -16,9 +16,7 @@
         <mxCell id="L-SI8MQGp3HvL-xkU85S-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L-SI8MQGp3HvL-xkU85S-33" target="L-SI8MQGp3HvL-xkU85S-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="410" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L-SI8MQGp3HvL-xkU85S-33" value="Modal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -44,7 +42,7 @@
         <mxCell id="L-SI8MQGp3HvL-xkU85S-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L-SI8MQGp3HvL-xkU85S-40" target="L-SI8MQGp3HvL-xkU85S-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="550" y="420" />
+              <mxPoint x="640" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
