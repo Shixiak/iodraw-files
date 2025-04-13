@@ -25,6 +25,9 @@
         <mxCell id="L-SI8MQGp3HvL-xkU85S-48" value="__proto__" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="552.5" width="60" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="L-SI8MQGp3HvL-xkU85S-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="L-SI8MQGp3HvL-xkU85S-52" target="L-SI8MQGp3HvL-xkU85S-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L-SI8MQGp3HvL-xkU85S-52" value="this" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="167.5" y="480" width="55" height="25" as="geometry" />
         </mxCell>
