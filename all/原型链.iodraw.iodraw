@@ -30,6 +30,9 @@
         <mxCell id="L-SI8MQGp3HvL-xkU85S-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.287;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L-SI8MQGp3HvL-xkU85S-31" target="L-SI8MQGp3HvL-xkU85S-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="L-SI8MQGp3HvL-xkU85S-40" value="Modal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
