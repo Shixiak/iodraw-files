@@ -7,6 +7,9 @@
         <mxCell id="Sovdq4mzSYtlJ5tyfl6E-1" value="触发条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Sovdq4mzSYtlJ5tyfl6E-2" value="设定一个 2 秒的计时器，执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
